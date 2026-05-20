@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" aria-hidden="true" role="img" class="iconify iconify--logos" width="32" height="32" viewBox="0 0 256 257">
+  <defs>
+    <linearGradient id="IconifyId1813088fe1fbc01bf2" x1="-3.137%" x2="100%" y1="-7.688%" y2="100%">
+      <stop offset="0%" stop-color="#41D1FF"></stop>
+      <stop offset="100%" stop-color="#BD34FE"></stop>
+    </linearGradient>
+    <linearGradient id="IconifyId1813088fe1fbc01bf3" x1="45.443%" x2="35.765%" y1="35.447%" y2="89.237%">
+      <stop offset="0%" stop-color="#FFEA79"></stop>
+      <stop offset="100%" stop-color="#FFAD1F"></stop>
+    </linearGradient>
+  </defs>
+  <path fill="url(#IconifyId1813088fe1fbc01bf2)" d="M255.153 15.102L137.18 227.502a14.75 14.75 0 0 1-26.36 0L-2.316 15.102a15 15 0 0 1 11.66-22.148h234.15a15 15 0 0 1 11.658 22.148z"></path>
+  <path fill="url(#IconifyId1813088fe1fbc01bf3)" d="M150.327 0L77.48 115.037h50.38l-89.066 141.926 139.78-142.14h-50.5L150.327 0z"></path>
+</svg>
